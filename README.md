@@ -1,2 +1,2 @@
 # Project-Euler
-Problems in https://projecteuler.net
+This respository contains solutions to problems that are in https://projecteuler.net
